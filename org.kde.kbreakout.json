@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.04.1/src/kbreakout-23.04.1.tar.xz",
-                    "sha256": "7abe584feb88a07660e456d71ab42fbab5080681d01455822cb529278b241095",
+                    "url": "https://download.kde.org/stable/release-service/23.04.2/src/kbreakout-23.04.2.tar.xz",
+                    "sha256": "bc9650c36355d70eb82a1bb6a372ea181cce70b784cc485ed9a458edecaeb493",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
