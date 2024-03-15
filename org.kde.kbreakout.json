@@ -1,7 +1,7 @@
 {
     "id": "org.kde.kbreakout",
     "runtime": "org.kde.Platform",
-    "runtime-version": "5.15-23.08",
+    "runtime-version": "6.6",
     "sdk": "org.kde.Sdk",
     "command": "kbreakout",
     "rename-icon": "kbreakout",
@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/libkdegames-23.08.5.tar.xz",
-                    "sha256": "0ac583f4327d6003782054a9ee3d51c922bcdf04577a3f7f12b3840cabf2efed",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/libkdegames-24.02.0.tar.xz",
+                    "sha256": "3d113422dc654348b2025de5fe1de256d06a3c55be9c7b104253e25595b2e2b1",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/23.08.5/src/kbreakout-23.08.5.tar.xz",
-                    "sha256": "d02f386b08e38f8519103e2757fa602b1316d90554f73fd73829e5bb3666af48",
+                    "url": "https://download.kde.org/stable/release-service/24.02.0/src/kbreakout-24.02.0.tar.xz",
+                    "sha256": "2b925dc14bb23b9d7bb94148a332df698719f248bc3f486dcf7ac5aa7fd41e5e",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
