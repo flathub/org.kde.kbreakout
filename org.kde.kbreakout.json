@@ -18,8 +18,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/libkdegames-25.04.2.tar.xz",
-                    "sha256": "8775c78f76d64be05bab10df4d0c3fa3d5f5442a094c86501d6ec7ada9b30d2b",
+                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/libkdegames-25.04.3.tar.xz",
+                    "sha256": "63cd2b137e989a635994c48f93dc9ecf3b5aa6306d39bda5a7a38c9aa2a437a4",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
@@ -35,8 +35,8 @@
             "sources": [
                 {
                     "type": "archive",
-                    "url": "https://download.kde.org/stable/release-service/25.04.2/src/kbreakout-25.04.2.tar.xz",
-                    "sha256": "b1d5329abc6167bf7bb57fcd5e0275812c371018e447d6eedca11582b7bddeef",
+                    "url": "https://download.kde.org/stable/release-service/25.04.3/src/kbreakout-25.04.3.tar.xz",
+                    "sha256": "8af42969885651c22ccec84d115ccb41641608c8c7b96514ce0ffb643da95cd6",
                     "x-checker-data": {
                         "type": "anitya",
                         "project-id": 8763,
