@@ -11,6 +11,13 @@
         "--socket=wayland",
         "--device=dri"
     ],
+    "cleanup": [
+        "/include",
+        "/lib/cmake",
+        "/share/carddecks",
+        "/share/doc",
+        "/share/qlogging-categories6"
+    ],
     "modules": [
         {
             "name": "libkdegames",
